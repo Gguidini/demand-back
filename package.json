@@ -12,6 +12,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "loglevel": "^1.6.4",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
